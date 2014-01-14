@@ -1,0 +1,1 @@
+/home/wangbin/WORK/hwy/test/nemo/NEMOGCM/NEMO/TOP_SRC/CFC/trcini_cfc.F90

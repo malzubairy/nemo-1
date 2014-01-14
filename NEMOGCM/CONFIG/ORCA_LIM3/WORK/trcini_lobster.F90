@@ -1,0 +1,1 @@
+/home/wangbin/WORK/hwy/test/nemo/NEMOGCM/NEMO/TOP_SRC/LOBSTER/trcini_lobster.F90

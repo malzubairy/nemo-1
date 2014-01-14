@@ -17,7 +17,7 @@
 %NCDF_INC           -I/home/wangbin/tools/netcdf/4.1.2_ifort/include
 %NCDF_LIB           -L/home/wangbin/tools/netcdf/4.1.2_ifort/lib -lnetcdf -lnetcdff 
 %MPI_INC            -I/apps/mpi/mvapich-2.1.7a-intel11.1/include 
-%NCDF_LIB           -L/apps/mpi/mvapich-2.1.7a-intel11.1/lib   
+%MPI_LIB            -L/apps/mpi/mvapich-2.1.7a-intel11.1/lib   
 %FC                 /apps/mpi/mvapich-2.1.7a-intel11.1/bin/mpif90 
 %FCFLAGS 	        -r8 -O3  -traceback 
 %FFLAGS 	        -r8 -O3  -traceback 

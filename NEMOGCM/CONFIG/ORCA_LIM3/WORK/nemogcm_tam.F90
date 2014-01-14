@@ -1,0 +1,1 @@
+/home/wangbin/WORK/hwy/test/nemo/NEMOGCM/NEMO/OPATAM_SRC/nemogcm_tam.F90

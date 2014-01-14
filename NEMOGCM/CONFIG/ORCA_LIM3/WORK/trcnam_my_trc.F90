@@ -1,0 +1,1 @@
+/home/wangbin/WORK/hwy/test/nemo/NEMOGCM/NEMO/TOP_SRC/MY_TRC/trcnam_my_trc.F90
