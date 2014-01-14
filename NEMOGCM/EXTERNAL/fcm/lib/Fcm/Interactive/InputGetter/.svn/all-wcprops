@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/fcm/lib/Fcm/Interactive/InputGetter
+END
+GUI.pm
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/fcm/lib/Fcm/Interactive/InputGetter/GUI.pm
+END
+CLI.pm
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/fcm/lib/Fcm/Interactive/InputGetter/CLI.pm
+END

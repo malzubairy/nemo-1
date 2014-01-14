@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/ORCA2_LIM_PISCES/IGCM00/COMP
+END
+opa9.card
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/ORCA2_LIM_PISCES/IGCM00/COMP/opa9.card
+END
+pisces.driver
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/ORCA2_LIM_PISCES/IGCM00/COMP/pisces.driver
+END
+opa9.driver
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/ORCA2_LIM_PISCES/IGCM00/COMP/opa9.driver
+END
+lim2.card
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/ORCA2_LIM_PISCES/IGCM00/COMP/lim2.card
+END
+lim2.driver
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/ORCA2_LIM_PISCES/IGCM00/COMP/lim2.driver
+END
+pisces.card
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/ORCA2_LIM_PISCES/IGCM00/COMP/pisces.card
+END

@@ -1,0 +1,46 @@
+8
+
+dir
+3819
+http://forge.ipsl.jussieu.fr/nemo/svn/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL
+http://forge.ipsl.jussieu.fr/nemo/svn
+
+
+
+2012-11-27T13:55:48.853459Z
+3678
+vichi
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4aad9cc9-4d31-0410-b1e8-ee312aa4b1ec
+
+IOIPSL
+dir
+
+XMLF90
+dir
+
+fcm
+dir
+
+svn_tools
+dir
+
+AGRIF
+dir
+
+XMLIO_SERVER
+dir
+

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/SETTE
+END
+input_ORCA2_OFF_PISCES.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/SETTE/input_ORCA2_OFF_PISCES.cfg
+END
+input_GYRE.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/SETTE/input_GYRE.cfg
+END
+input_ORCA2_LIM.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/SETTE/input_ORCA2_LIM.cfg
+END
+iodef_sette.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/SETTE/iodef_sette.xml
+END
+input_ORCA2_LIM_PISCES.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/SETTE/input_ORCA2_LIM_PISCES.cfg
+END
+input_AMM12.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/SETTE/input_AMM12.cfg
+END
+input_ORCA2_LIM_AGRIF.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/SETTE/input_ORCA2_LIM_AGRIF.cfg
+END
+SETTE.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/SETTE/SETTE.pdf
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/SETTE/README
+END
+sette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/SETTE/sette.sh
+END
+param.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/SETTE/param.cfg
+END
+input_AMM12_PISCES.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/SETTE/input_AMM12_PISCES.cfg
+END
+prepare_job.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/SETTE/prepare_job.sh
+END
+prepare_exe_dir.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/SETTE/prepare_exe_dir.sh
+END
+sette_beginner.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/SETTE/sette_beginner.sh
+END
+fcm_job.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/SETTE/fcm_job.sh
+END
+all_functions.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/SETTE/all_functions.sh
+END

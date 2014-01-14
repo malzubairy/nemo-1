@@ -1,0 +1,407 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO
+END
+vector_file_dep_def.inc
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/vector_file_dep_def.inc
+END
+mod_grid.f90
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/mod_grid.f90
+END
+mod_file_definition.f90
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/mod_file_definition.f90
+END
+xmlio.f90
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/xmlio.f90
+END
+mod_file_group.f90
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/mod_file_group.f90
+END
+vector_axis_group_def.inc
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/vector_axis_group_def.inc
+END
+mod_grid_definition.f90
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/mod_grid_definition.f90
+END
+vector_axis_contains.inc
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/vector_axis_contains.inc
+END
+mod_object.f90
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/mod_object.f90
+END
+mod_domain.f90
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/mod_domain.f90
+END
+mod_xmlio_parameters.f90
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/mod_xmlio_parameters.f90
+END
+string_function.f90
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/string_function.f90
+END
+vector_field_contains.inc
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/vector_field_contains.inc
+END
+vector_node_contains.inc
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/vector_node_contains.inc
+END
+mod_field.f90
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/mod_field.f90
+END
+mod_context.f90
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/mod_context.f90
+END
+vector_field_out_def.inc
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/vector_field_out_def.inc
+END
+test_xmlio.f90
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/test_xmlio.f90
+END
+vector_file_def.inc
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/vector_file_def.inc
+END
+vector_field_group_contains.inc
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/vector_field_group_contains.inc
+END
+mod_error_msg.f90
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/mod_error_msg.f90
+END
+vector_zoom_def.inc
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/vector_zoom_def.inc
+END
+vector_context_def.inc
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/vector_context_def.inc
+END
+vector_node_def.inc
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/vector_node_def.inc
+END
+vector_file_dep_contains.inc
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/vector_file_dep_contains.inc
+END
+mod_field_attribute.f90
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/mod_field_attribute.f90
+END
+vector_field_out_contains.inc
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/vector_field_out_contains.inc
+END
+vector_file_group_def.inc
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/vector_file_group_def.inc
+END
+mod_dependency.f90
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/mod_dependency.f90
+END
+vector_contains.template
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/vector_contains.template
+END
+mod_file.f90
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/mod_file.f90
+END
+vector_axis_def.inc
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/vector_axis_def.inc
+END
+vector_domain_def.inc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/vector_domain_def.inc
+END
+mod_zoom.f90
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/mod_zoom.f90
+END
+vector_field_dep_def.inc
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/vector_field_dep_def.inc
+END
+mod_parse_xml.f90
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/mod_parse_xml.f90
+END
+mod_stdtype.f90
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/mod_stdtype.f90
+END
+mod_file_attribut.f90
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/mod_file_attribut.f90
+END
+mod_grid_group.f90
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/mod_grid_group.f90
+END
+create_template
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/create_template
+END
+mod_grid_attribut.f90
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/mod_grid_attribut.f90
+END
+mod_axis.f90
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/mod_axis.f90
+END
+vector_file_contains.inc
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/vector_file_contains.inc
+END
+vector_axis_group_contains.inc
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/vector_axis_group_contains.inc
+END
+mod_axis_group.f90
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/mod_axis_group.f90
+END
+vector_grid_contains.inc
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/vector_grid_contains.inc
+END
+mod_time_parameters.f90
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/mod_time_parameters.f90
+END
+mod_vector_field.F90.old
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/mod_vector_field.F90.old
+END
+vector_file_group_contains.inc
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/vector_file_group_contains.inc
+END
+mod_attribut_list.f90
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/mod_attribut_list.f90
+END
+mod_field_definition.f90
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/mod_field_definition.f90
+END
+mod_sorted_list.f90
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/mod_sorted_list.f90
+END
+vector_grid_group_contains.inc
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/vector_grid_group_contains.inc
+END
+mod_attribut.f90
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/mod_attribut.f90
+END
+vector_def.template
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/vector_def.template
+END
+vector_field_def.inc
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/vector_field_def.inc
+END
+mod_field_group.f90
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/mod_field_group.f90
+END
+vector_grid_def.inc
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/vector_grid_def.inc
+END
+mod_zoom_attribut.f90
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/mod_zoom_attribut.f90
+END
+vector_domain_contains.inc
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/vector_domain_contains.inc
+END
+vector_field_dep_contains.inc
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/vector_field_dep_contains.inc
+END
+vector_field_group_def.inc
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/vector_field_group_def.inc
+END
+mod_axis_definition.f90
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/mod_axis_definition.f90
+END
+vector_grid_group_def.inc
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/vector_grid_group_def.inc
+END
+vector_zoom_contains.inc
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/vector_zoom_contains.inc
+END
+vector_context_contains.inc
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/vector_context_contains.inc
+END
+mod_axis_attribut.f90
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/XMLIO/mod_axis_attribut.f90
+END

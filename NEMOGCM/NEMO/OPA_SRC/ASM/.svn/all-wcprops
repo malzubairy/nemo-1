@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/nemo/svn/!svn/ver/3784/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPA_SRC/ASM
+END
+asmpar.F90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPA_SRC/ASM/asmpar.F90
+END
+asmbkg.F90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPA_SRC/ASM/asmbkg.F90
+END
+asminc.F90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/nemo/svn/!svn/ver/3784/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPA_SRC/ASM/asminc.F90
+END
+asmtrj.F90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPA_SRC/ASM/asmtrj.F90
+END

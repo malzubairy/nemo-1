@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPATAM_SRC
+END
+tamctl.F90
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPATAM_SRC/tamctl.F90
+END
+tstool_tam.F90
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPATAM_SRC/tstool_tam.F90
+END
+gridrandom.F90
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPATAM_SRC/gridrandom.F90
+END
+nemogcm_tam.F90
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPATAM_SRC/nemogcm_tam.F90
+END
+paresp.F90
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPATAM_SRC/paresp.F90
+END
+ran_num.F90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPATAM_SRC/ran_num.F90
+END
+nemo_tam.f90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPATAM_SRC/nemo_tam.f90
+END
+dotprodfld.F90
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPATAM_SRC/dotprodfld.F90
+END
+step_oce_tam.F90
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPATAM_SRC/step_oce_tam.F90
+END
+oce_tam.F90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPATAM_SRC/oce_tam.F90
+END
+stpctl_tam.F90
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPATAM_SRC/stpctl_tam.F90
+END
+step_tam.F90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPATAM_SRC/step_tam.F90
+END
+tamtst.F90
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPATAM_SRC/tamtst.F90
+END
+trc_oce_tam.F90
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPATAM_SRC/trc_oce_tam.F90
+END
+mt19937ar.f90
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPATAM_SRC/mt19937ar.f90
+END

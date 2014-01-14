@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPA_SRC/IOM
+END
+iom_def.F90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPA_SRC/IOM/iom_def.F90
+END
+iom_ioipsl.F90
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPA_SRC/IOM/iom_ioipsl.F90
+END
+iom.F90
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPA_SRC/IOM/iom.F90
+END
+restart.F90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPA_SRC/IOM/restart.F90
+END
+in_out_manager.F90
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPA_SRC/IOM/in_out_manager.F90
+END
+prtctl.F90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPA_SRC/IOM/prtctl.F90
+END
+iom_rstdimg.F90
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPA_SRC/IOM/iom_rstdimg.F90
+END
+iom_nf90.F90
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPA_SRC/IOM/iom_nf90.F90
+END

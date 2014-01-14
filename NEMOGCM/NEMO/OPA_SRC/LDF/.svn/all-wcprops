@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPA_SRC/LDF
+END
+ldfslp.F90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPA_SRC/LDF/ldfslp.F90
+END
+ldftra_oce.F90
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPA_SRC/LDF/ldftra_oce.F90
+END
+ldftra_c1d.h90
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPA_SRC/LDF/ldftra_c1d.h90
+END
+ldftra_c2d.h90
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPA_SRC/LDF/ldftra_c2d.h90
+END
+ldfeiv_substitute.h90
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPA_SRC/LDF/ldfeiv_substitute.h90
+END
+ldfdyn_oce.F90
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPA_SRC/LDF/ldfdyn_oce.F90
+END
+ldftra_c3d.h90
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPA_SRC/LDF/ldftra_c3d.h90
+END
+ldfdyn_arctic.h90
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPA_SRC/LDF/ldfdyn_arctic.h90
+END
+ldfeiv.F90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPA_SRC/LDF/ldfeiv.F90
+END
+ldfdyn_c1d.h90
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPA_SRC/LDF/ldfdyn_c1d.h90
+END
+ldftra_substitute.h90
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPA_SRC/LDF/ldftra_substitute.h90
+END
+ldfdyn_c2d.h90
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPA_SRC/LDF/ldfdyn_c2d.h90
+END
+ldfdyn_antarctic.h90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPA_SRC/LDF/ldfdyn_antarctic.h90
+END
+ldfdyn_c3d.h90
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPA_SRC/LDF/ldfdyn_c3d.h90
+END
+ldftra.F90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPA_SRC/LDF/ldftra.F90
+END
+ldfdyn_substitute.h90
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPA_SRC/LDF/ldfdyn_substitute.h90
+END
+ldfdyn.F90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPA_SRC/LDF/ldfdyn.F90
+END

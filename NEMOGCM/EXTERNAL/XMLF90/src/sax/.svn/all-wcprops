@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/sax
+END
+m_io.f90
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/sax/m_io.f90
+END
+Developer.Guide
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/sax/Developer.Guide
+END
+m_xml_error.f90
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/sax/m_xml_error.f90
+END
+m_buffer.f90
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/sax/m_buffer.f90
+END
+flib_sax.f90
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/sax/flib_sax.f90
+END
+m_xml_parser.f90
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/sax/m_xml_parser.f90
+END
+m_entities.f90
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/sax/m_entities.f90
+END
+m_fsm.f90
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/sax/m_fsm.f90
+END
+m_elstack.f90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/sax/m_elstack.f90
+END
+m_debug.f90
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/sax/m_debug.f90
+END
+m_charset.f90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/sax/m_charset.f90
+END
+m_converters.f90
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/sax/m_converters.f90
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/sax/TODO
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/sax/CHANGES
+END
+m_reader.f90
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/sax/m_reader.f90
+END
+m_dictionary.f90
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/sax/m_dictionary.f90
+END

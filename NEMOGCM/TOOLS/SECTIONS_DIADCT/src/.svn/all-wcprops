@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/SECTIONS_DIADCT/src
+END
+writesections.f90
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/SECTIONS_DIADCT/src/writesections.f90
+END
+compute_sections.f90
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/SECTIONS_DIADCT/src/compute_sections.f90
+END
+readsections.f90
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/SECTIONS_DIADCT/src/readsections.f90
+END
+sections_tools.f90
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/SECTIONS_DIADCT/src/sections_tools.f90
+END
+declarations.f90
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/SECTIONS_DIADCT/src/declarations.f90
+END
+diadct_sections.f90
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/SECTIONS_DIADCT/src/diadct_sections.f90
+END
+readcoordmesh.f90
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/SECTIONS_DIADCT/src/readcoordmesh.f90
+END

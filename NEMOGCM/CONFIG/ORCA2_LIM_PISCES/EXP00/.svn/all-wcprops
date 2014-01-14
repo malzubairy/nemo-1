@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/ORCA2_LIM_PISCES/EXP00
+END
+namelist_ice_lim2
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/ORCA2_LIM_PISCES/EXP00/namelist_ice_lim2
+END
+namelist_ice_lim3
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/ORCA2_LIM_PISCES/EXP00/namelist_ice_lim3
+END
+EMPave_old.dat
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/ORCA2_LIM_PISCES/EXP00/EMPave_old.dat
+END
+namelist_pisces
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/ORCA2_LIM_PISCES/EXP00/namelist_pisces
+END
+iodef.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/ORCA2_LIM_PISCES/EXP00/iodef.xml
+END
+AA_job
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/ORCA2_LIM_PISCES/EXP00/AA_job
+END
+xmlio_server.def
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/ORCA2_LIM_PISCES/EXP00/xmlio_server.def
+END
+namelist
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/ORCA2_LIM_PISCES/EXP00/namelist
+END
+namelist_ice
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/ORCA2_LIM_PISCES/EXP00/namelist_ice
+END
+namelist_top
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/ORCA2_LIM_PISCES/EXP00/namelist_top
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/nemo/svn/!svn/ver/3797/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/ORCA2_LIM/EXP00
+END
+1_namelist_ice_lim2
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/ORCA2_LIM/EXP00/1_namelist_ice_lim2
+END
+namelist_ice_lim2
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/ORCA2_LIM/EXP00/namelist_ice_lim2
+END
+namelist_ice_lim3
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/ORCA2_LIM/EXP00/namelist_ice_lim3
+END
+EMPave_old.dat
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/ORCA2_LIM/EXP00/EMPave_old.dat
+END
+AGRIF_FixedGrids.in
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/ORCA2_LIM/EXP00/AGRIF_FixedGrids.in
+END
+iodef.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/ORCA2_LIM/EXP00/iodef.xml
+END
+AA_job
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/ORCA2_LIM/EXP00/AA_job
+END
+xmlio_server.def
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/ORCA2_LIM/EXP00/xmlio_server.def
+END
+1_namelist
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/nemo/svn/!svn/ver/3797/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/ORCA2_LIM/EXP00/1_namelist
+END
+iodef_ar5.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/ORCA2_LIM/EXP00/iodef_ar5.xml
+END
+namelist
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/nemo/svn/!svn/ver/3797/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/ORCA2_LIM/EXP00/namelist
+END
+namelist_ice
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/ORCA2_LIM/EXP00/namelist_ice
+END

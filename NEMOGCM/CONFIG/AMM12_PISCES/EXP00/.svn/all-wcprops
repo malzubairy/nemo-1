@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/nemo/svn/!svn/ver/3797/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/AMM12_PISCES/EXP00
+END
+namelist_pisces
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/AMM12_PISCES/EXP00/namelist_pisces
+END
+iodef.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/AMM12_PISCES/EXP00/iodef.xml
+END
+xmlio_server.def
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/AMM12_PISCES/EXP00/xmlio_server.def
+END
+namelist
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/nemo/svn/!svn/ver/3797/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/AMM12_PISCES/EXP00/namelist
+END
+namelist_top
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/AMM12_PISCES/EXP00/namelist_top
+END

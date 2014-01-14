@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/cml
+END
+m_stmw.f90
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/cml/m_stmw.f90
+END
+flib_cml.f90
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/cml/flib_cml.f90
+END
+m_cmlw.f90
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/cml/m_cmlw.f90
+END

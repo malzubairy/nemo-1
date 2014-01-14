@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/nemo/svn/!svn/ver/3797/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/ORCA2_TAM/EXP00
+END
+opa
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/ORCA2_TAM/EXP00/opa
+END
+AGRIF_FixedGrids.in
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/ORCA2_TAM/EXP00/AGRIF_FixedGrids.in
+END
+iodef.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/ORCA2_TAM/EXP00/iodef.xml
+END
+xmlio_server.def
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/ORCA2_TAM/EXP00/xmlio_server.def
+END
+namelist
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/nemo/svn/!svn/ver/3797/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/ORCA2_TAM/EXP00/namelist
+END

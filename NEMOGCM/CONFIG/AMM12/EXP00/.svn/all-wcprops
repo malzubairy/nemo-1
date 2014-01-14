@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/nemo/svn/!svn/ver/3797/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/AMM12/EXP00
+END
+iodef.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/AMM12/EXP00/iodef.xml
+END
+xmlio_server.def
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/AMM12/EXP00/xmlio_server.def
+END
+namelist
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/nemo/svn/!svn/ver/3797/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/AMM12/EXP00/namelist
+END

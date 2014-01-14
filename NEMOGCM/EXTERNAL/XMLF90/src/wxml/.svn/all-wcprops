@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/wxml
+END
+flib_wxml.f90
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/wxml/flib_wxml.f90
+END
+m_wxml_text.f90
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/wxml/m_wxml_text.f90
+END
+m_wxml_dictionary.f90
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/wxml/m_wxml_dictionary.f90
+END
+m_wxml_elstack.f90
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/wxml/m_wxml_elstack.f90
+END
+m_wxml_core.f90
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/wxml/m_wxml_core.f90
+END
+m_wxml_buffer.f90
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/wxml/m_wxml_buffer.f90
+END

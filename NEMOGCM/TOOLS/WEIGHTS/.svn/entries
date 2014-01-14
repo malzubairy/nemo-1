@@ -1,0 +1,64 @@
+8
+
+dir
+3819
+http://forge.ipsl.jussieu.fr/nemo/svn/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/WEIGHTS
+http://forge.ipsl.jussieu.fr/nemo/svn
+
+
+
+2011-04-04T10:03:24.094808Z
+2718
+sga
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4aad9cc9-4d31-0410-b1e8-ee312aa4b1ec
+
+RELEASE_1.1
+file
+
+
+
+
+2014-01-14T03:14:25.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2010-11-03T12:55:30.033989Z
+2352
+sga
+
+nocsutil
+dir
+
+SCRIP1.4
+dir
+
+src
+dir
+
+bin
+dir
+
+README
+file
+
+
+
+
+2014-01-14T03:14:25.000000Z
+74933866dee74ee4555704c7c290e650
+2011-04-04T10:03:24.094808Z
+2718
+sga
+

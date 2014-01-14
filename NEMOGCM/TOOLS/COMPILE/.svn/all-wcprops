@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/COMPILE
+END
+bldxioxag.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/COMPILE/bldxioxag.cfg
+END
+bldxio.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/COMPILE/bldxio.cfg
+END
+bld_tools.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/COMPILE/bld_tools.cfg
+END
+Fcheck_script.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/COMPILE/Fcheck_script.sh
+END
+Fcheck_config.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/COMPILE/Fcheck_config.sh
+END
+Fmake_config.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/COMPILE/Fmake_config.sh
+END
+Fclean_config.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/COMPILE/Fclean_config.sh
+END
+Flist_archfile.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/COMPILE/Flist_archfile.sh
+END
+Fcopy_dir.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/COMPILE/Fcopy_dir.sh
+END
+Fread_dir.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/COMPILE/Fread_dir.sh
+END
+Fcheck_archfile.sh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/COMPILE/Fcheck_archfile.sh
+END
+Fprep_agrif.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/COMPILE/Fprep_agrif.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/COMPILE/README
+END
+Fmake_WORK.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/COMPILE/Fmake_WORK.sh
+END
+bldxag.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/COMPILE/bldxag.cfg
+END
+bld.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/COMPILE/bld.cfg
+END
+bldtam.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/COMPILE/bldtam.cfg
+END
+agrifpp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/COMPILE/agrifpp.sh
+END
+Fadd_keys.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/COMPILE/Fadd_keys.sh
+END
+conv.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/COMPILE/conv.cfg
+END
+Fgo_to_TOOLS.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/COMPILE/Fgo_to_TOOLS.sh
+END
+Fclean_var.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/COMPILE/Fclean_var.sh
+END
+Fmake_bld.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/COMPILE/Fmake_bld.sh
+END
+tools.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/COMPILE/tools.txt
+END
+Fdel_keys.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/COMPILE/Fdel_keys.sh
+END

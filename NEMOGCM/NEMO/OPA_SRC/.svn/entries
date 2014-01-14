@@ -1,0 +1,430 @@
+8
+
+dir
+3819
+http://forge.ipsl.jussieu.fr/nemo/svn/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPA_SRC
+http://forge.ipsl.jussieu.fr/nemo/svn
+
+
+
+2013-02-21T10:31:10.135083Z
+3819
+acc
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4aad9cc9-4d31-0410-b1e8-ee312aa4b1ec
+
+DOM
+dir
+
+ASM
+dir
+
+TAM
+dir
+
+nemogcm.F90
+file
+
+
+
+
+2014-01-14T03:14:09.000000Z
+78abbc6ad077a6122ed560e90db708a1
+2012-11-19T14:21:34.726198Z
+3604
+rblod
+has-props
+
+IOM
+dir
+
+par_POMME_R025.h90
+file
+
+
+
+
+2014-01-14T03:14:09.000000Z
+73c3d0a7f301101a7f5932d4c9400a97
+2012-01-28T16:44:18.183413Z
+3294
+rblod
+has-props
+
+DYN
+dir
+
+SOL
+dir
+
+par_ORCA_R025.h90
+file
+
+
+
+
+2014-01-14T03:14:09.000000Z
+f4a760c1dcd7bf125f8a325e94cee3c6
+2011-03-30T15:58:35.446090Z
+2715
+rblod
+has-props
+
+step_oce.F90
+file
+
+
+
+
+2014-01-14T03:14:09.000000Z
+79ef73a0a9b705eb01fe750baa686fb0
+2012-11-19T14:21:34.726198Z
+3604
+rblod
+has-props
+
+lib_fortran.F90
+file
+
+
+
+
+2014-01-14T03:14:09.000000Z
+211f0f53c9ec612b60e175bb7fb91309
+2012-11-19T14:21:34.726198Z
+3604
+rblod
+has-props
+
+LBC
+dir
+
+oce.F90
+file
+
+
+
+
+2014-01-14T03:14:09.000000Z
+695d4276a16abfbd0fded3166df9d298
+2012-01-28T16:44:18.183413Z
+3294
+rblod
+has-props
+
+OBC
+dir
+
+LDF
+dir
+
+C1D
+dir
+
+SBC
+dir
+
+par_GYRE.h90
+file
+
+
+
+
+2014-01-14T03:14:09.000000Z
+375456b5afda9f9fe9e69b9edf065588
+2011-03-30T15:58:35.446090Z
+2715
+rblod
+has-props
+
+par_EEL_R2.h90
+file
+
+
+
+
+2014-01-14T03:14:09.000000Z
+9e87f4db2ae4a2340a0b07f8bf8e9cba
+2011-03-30T15:58:35.446090Z
+2715
+rblod
+has-props
+
+trc_oce.F90
+file
+
+
+
+
+2014-01-14T03:14:09.000000Z
+6bf7654bfbbdf678ea477aa0ca9d4542
+2012-01-28T16:44:18.183413Z
+3294
+rblod
+has-props
+
+par_ORCA_R05.h90
+file
+
+
+
+
+2014-01-14T03:14:09.000000Z
+6d416fc5b7f96ecc26e7aea87d3f7b00
+2011-03-30T15:58:35.446090Z
+2715
+rblod
+has-props
+
+par_EEL_R5.h90
+file
+
+
+
+
+2014-01-14T03:14:09.000000Z
+8e75c720aeff514c64614ded775419ba
+2011-03-30T15:58:35.446090Z
+2715
+rblod
+has-props
+
+par_EEL_R6.h90
+file
+
+
+
+
+2014-01-14T03:14:09.000000Z
+97b9f3ca4918e717559a883ea75402c8
+2011-03-30T15:58:35.446090Z
+2715
+rblod
+has-props
+
+BDY
+dir
+
+lib_print.f90
+file
+
+
+
+
+2014-01-14T03:14:09.000000Z
+2f73efa386943471a2ea6b893621f461
+2011-03-30T15:58:35.446090Z
+2715
+rblod
+has-props
+
+FLO
+dir
+
+lib_cray.f90
+file
+
+
+
+
+2014-01-14T03:14:09.000000Z
+fbce0e0ebc06fa9b65a8899b79be4f20
+2010-12-27T17:33:53.432719Z
+2528
+rblod
+has-props
+
+ZDF
+dir
+
+OBS
+dir
+
+par_kind.F90
+file
+
+
+
+
+2014-01-14T03:14:09.000000Z
+eb9d59d52a977bc27ad7b8f53018469a
+2010-12-27T17:33:53.432719Z
+2528
+rblod
+has-props
+
+timing.F90
+file
+
+
+
+
+2014-01-14T03:14:09.000000Z
+1e4854ad2b2eb71006a612da7ee280e9
+2012-04-11T12:56:01.136830Z
+3352
+rblod
+has-props
+
+TRA
+dir
+
+par_ORCA_R1.h90
+file
+
+
+
+
+2014-01-14T03:14:09.000000Z
+968044d3425c6be707721caef504a899
+2011-03-30T15:58:35.446090Z
+2715
+rblod
+
+par_ORCA_R2.h90
+file
+
+
+
+
+2014-01-14T03:14:09.000000Z
+8e1fad4d1eadb7c8fa2c571bf6e82ab9
+2011-03-30T15:58:35.446090Z
+2715
+rblod
+has-props
+
+TRD
+dir
+
+par_ORCA_R4.h90
+file
+
+
+
+
+2014-01-14T03:14:09.000000Z
+7dbf14c73347d01ea326898494c0bb6c
+2011-03-30T15:58:35.446090Z
+2715
+rblod
+has-props
+
+nemo.f90
+file
+
+
+
+
+2014-01-14T03:14:09.000000Z
+b1c351743afd6cd42b93ea237ab7ceb5
+2010-12-27T17:33:53.432719Z
+2528
+rblod
+has-props
+
+DIA
+dir
+
+module_example
+file
+
+
+
+
+2014-01-14T03:14:09.000000Z
+a15d30def31986ad8c36a444f01f3536
+2011-04-11T10:30:51.838209Z
+2737
+rblod
+has-props
+
+par_AMM_12km.h90
+file
+
+
+
+
+2014-01-14T03:14:09.000000Z
+c2e37f3bcc9ff7fd35c0f6e8f747a58a
+2012-01-28T16:44:18.183413Z
+3294
+rblod
+
+par_oce.F90
+file
+
+
+
+
+2014-01-14T03:14:09.000000Z
+61777f9ddbbf2c814d146c48c6901007
+2012-01-28T16:44:18.183413Z
+3294
+rblod
+has-props
+
+stpctl.F90
+file
+
+
+
+
+2014-01-14T03:14:09.000000Z
+bc9cf786c1c79f9bed3bcf5fb9133a51
+2012-01-28T16:44:18.183413Z
+3294
+rblod
+has-props
+
+vectopt_loop_substitute.h90
+file
+
+
+
+
+2014-01-14T03:14:09.000000Z
+0135e8b7b9052cc5bda1d1b9686b2d33
+2010-12-27T17:33:53.432719Z
+2528
+rblod
+has-props
+
+step.F90
+file
+
+
+
+
+2014-01-14T03:14:09.000000Z
+ce0eb9e5d0a6f6593fb2e4cf39abca07
+2012-11-19T14:21:34.726198Z
+3604
+rblod
+has-props
+
+wrk_nemo.F90
+file
+
+
+
+
+2014-01-14T03:14:09.000000Z
+dd7ce068df144318826c356b34be7c11
+2012-01-28T16:44:18.183413Z
+3294
+rblod
+

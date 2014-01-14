@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/nemo/svn/!svn/ver/3816/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/LIM_SRC_3
+END
+limrhg.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/nemo/svn/!svn/ver/3789/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/LIM_SRC_3/limrhg.F90
+END
+limupdate.F90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/nemo/svn/!svn/ver/3816/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/LIM_SRC_3/limupdate.F90
+END
+limthd_ent.F90
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/LIM_SRC_3/limthd_ent.F90
+END
+limmsh.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/LIM_SRC_3/limmsh.F90
+END
+limvar.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/LIM_SRC_3/limvar.F90
+END
+limistate.F90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/LIM_SRC_3/limistate.F90
+END
+limthd_dh.F90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/nemo/svn/!svn/ver/3807/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/LIM_SRC_3/limthd_dh.F90
+END
+limdyn.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/LIM_SRC_3/limdyn.F90
+END
+limdia.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/LIM_SRC_3/limdia.F90
+END
+dom_ice.F90
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/LIM_SRC_3/dom_ice.F90
+END
+thd_ice.F90
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/LIM_SRC_3/thd_ice.F90
+END
+iceini.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/LIM_SRC_3/iceini.F90
+END
+ice.F90
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/LIM_SRC_3/ice.F90
+END
+limthd_lac.F90
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/LIM_SRC_3/limthd_lac.F90
+END
+par_ice.F90
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/LIM_SRC_3/par_ice.F90
+END
+limwri.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/LIM_SRC_3/limwri.F90
+END
+limitd_me.F90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/LIM_SRC_3/limitd_me.F90
+END
+limhdf.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/LIM_SRC_3/limhdf.F90
+END
+limthd_dif.F90
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/nemo/svn/!svn/ver/3807/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/LIM_SRC_3/limthd_dif.F90
+END
+limcons.F90
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/LIM_SRC_3/limcons.F90
+END
+limwri_dimg.h90
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/LIM_SRC_3/limwri_dimg.h90
+END
+limtrp.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/LIM_SRC_3/limtrp.F90
+END
+limtab.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/LIM_SRC_3/limtab.F90
+END
+limsbc.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/LIM_SRC_3/limsbc.F90
+END
+limrst.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/LIM_SRC_3/limrst.F90
+END
+limadv.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/LIM_SRC_3/limadv.F90
+END
+limitd_th.F90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/LIM_SRC_3/limitd_th.F90
+END
+limthd_sal.F90
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/LIM_SRC_3/limthd_sal.F90
+END
+limthd.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/LIM_SRC_3/limthd.F90
+END

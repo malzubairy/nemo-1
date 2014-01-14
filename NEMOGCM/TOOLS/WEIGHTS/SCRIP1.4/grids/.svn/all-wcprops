@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/WEIGHTS/SCRIP1.4/grids
+END
+create_latlon.f
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/WEIGHTS/SCRIP1.4/grids/create_latlon.f
+END
+convert_old.f
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/WEIGHTS/SCRIP1.4/grids/convert_old.f
+END
+convertPOPT.f
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/WEIGHTS/SCRIP1.4/grids/convertPOPT.f
+END
+convertgauss.f
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/WEIGHTS/SCRIP1.4/grids/convertgauss.f
+END
+remap_grid_POP43.nc.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/WEIGHTS/SCRIP1.4/grids/remap_grid_POP43.nc.bz2
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/WEIGHTS/SCRIP1.4/grids/README
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/WEIGHTS/SCRIP1.4/grids/makefile
+END
+remap_grid_T42.nc.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/WEIGHTS/SCRIP1.4/grids/remap_grid_T42.nc.bz2
+END

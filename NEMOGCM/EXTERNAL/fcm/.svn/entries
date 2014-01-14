@@ -1,0 +1,82 @@
+8
+
+dir
+3819
+http://forge.ipsl.jussieu.fr/nemo/svn/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/fcm
+http://forge.ipsl.jussieu.fr/nemo/svn
+
+
+
+2012-11-27T12:59:21.198200Z
+3673
+vichi
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4aad9cc9-4d31-0410-b1e8-ee312aa4b1ec
+
+t
+dir
+
+LICENSE.html
+file
+
+
+
+
+2014-01-14T03:14:34.000000Z
+ae87daa5137ada71464ee3443f119fe2
+2010-10-15T14:21:13.057608Z
+2281
+smasson
+has-props
+
+lib
+dir
+
+COPYRIGHT.txt
+file
+
+
+
+
+2014-01-14T03:14:34.000000Z
+05667dcf23a788ddd34951fe1a26bc52
+2010-10-15T14:21:13.057608Z
+2281
+smasson
+has-props
+
+bin
+dir
+
+etc
+dir
+
+man
+dir
+
+README
+file
+
+
+
+
+2014-01-14T03:14:34.000000Z
+148ce81f72db176ca152e127eba1b076
+2010-10-15T14:21:13.057608Z
+2281
+smasson
+has-props
+

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/dom
+END
+m_dom_namednodemap.f90
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/dom/m_dom_namednodemap.f90
+END
+m_dom_element.f90
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/dom/m_dom_element.f90
+END
+m_dom_error.f90
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/dom/m_dom_error.f90
+END
+m_dom_parse.f90
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/dom/m_dom_parse.f90
+END
+m_dom_document.f90
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/dom/m_dom_document.f90
+END
+flib_dom.f90
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/dom/flib_dom.f90
+END
+m_dom_utils.f90
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/dom/m_dom_utils.f90
+END
+m_dom_nodelist.f90
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/dom/m_dom_nodelist.f90
+END
+m_dom_attribute.f90
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/dom/m_dom_attribute.f90
+END
+m_dom_types.f90
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/dom/m_dom_types.f90
+END
+m_dom_node.f90
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/dom/m_dom_node.f90
+END
+m_dom_debug.f90
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90/src/dom/m_dom_debug.f90
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/MISCELLANEOUS
+END
+rewrite_nemo.sh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/MISCELLANEOUS/rewrite_nemo.sh
+END
+chk_iomput.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/MISCELLANEOUS/chk_iomput.sh
+END
+chk_wrk_alloc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/TOOLS/MISCELLANEOUS/chk_wrk_alloc.sh
+END

@@ -1,0 +1,43 @@
+8
+
+dir
+3819
+http://forge.ipsl.jussieu.fr/nemo/svn/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG/AMM12
+http://forge.ipsl.jussieu.fr/nemo/svn
+
+
+
+2013-02-11T11:26:15.455722Z
+3797
+cbricaud
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4aad9cc9-4d31-0410-b1e8-ee312aa4b1ec
+
+cpp_AMM12.fcm
+file
+
+
+
+
+2014-01-14T03:13:57.000000Z
+2cbcbf18ca8dc8efa568bdfb87b94a26
+2011-11-15T13:42:19.191896Z
+3110
+acc
+
+EXP00
+dir
+

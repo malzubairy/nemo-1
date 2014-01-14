@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/IOSERVER
+END
+mod_field_bufferize.f90
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/IOSERVER/mod_field_bufferize.f90
+END
+pack_f.f90
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/IOSERVER/pack_f.f90
+END
+main.f90
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/IOSERVER/main.f90
+END
+mpi_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/IOSERVER/mpi_mod.F90
+END
+mpi_wrapper.F90
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/IOSERVER/mpi_wrapper.F90
+END
+mod_boxed_domain.f90
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/IOSERVER/mod_boxed_domain.f90
+END
+mod_global_memory.f90
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/IOSERVER/mod_global_memory.f90
+END
+mod_prec.f90
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/IOSERVER/mod_prec.f90
+END
+mod_ioserver_namelist.f90
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/IOSERVER/mod_ioserver_namelist.f90
+END
+mod_box_grid.f90
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/IOSERVER/mod_box_grid.f90
+END
+ios_mpif.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/IOSERVER/ios_mpif.h
+END
+mod_ioserver_para.F90
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/IOSERVER/mod_ioserver_para.F90
+END
+mod_mpi_buffer_parameters.f90
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/IOSERVER/mod_mpi_buffer_parameters.f90
+END
+mod_iomanager.f90
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/IOSERVER/mod_iomanager.f90
+END
+mod_event_parameters.f90
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/IOSERVER/mod_event_parameters.f90
+END
+mod_mpi_buffer_server.f90
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/IOSERVER/mod_mpi_buffer_server.f90
+END
+mod_wait.f90
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/IOSERVER/mod_wait.f90
+END
+mpitrace.F90
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/IOSERVER/mpitrace.F90
+END
+mod_ioclient.f90
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/IOSERVER/mod_ioclient.f90
+END
+server.F90
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/IOSERVER/server.F90
+END
+mod_event_server.f90
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/IOSERVER/mod_event_server.f90
+END
+mod_ioclient_para.F90
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/IOSERVER/mod_ioclient_para.F90
+END
+mod_mpi_buffer_client.F90
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/IOSERVER/mod_mpi_buffer_client.F90
+END
+mod_pack.f90
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/IOSERVER/mod_pack.f90
+END
+mod_interface_ioipsl.f90
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/IOSERVER/mod_interface_ioipsl.f90
+END
+mod_event_client.f90
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/IOSERVER/mod_event_client.f90
+END
+init_vampir.f90
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/IOSERVER/init_vampir.f90
+END
+pack_c.c.old
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLIO_SERVER/src/IOSERVER/pack_c.c.old
+END

@@ -1,0 +1,54 @@
+8
+
+dir
+3819
+http://forge.ipsl.jussieu.fr/nemo/svn/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/OPATAM_SRC/SOL
+http://forge.ipsl.jussieu.fr/nemo/svn
+
+
+
+2012-11-20T09:08:51.307895Z
+3611
+pabouttier
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4aad9cc9-4d31-0410-b1e8-ee312aa4b1ec
+
+solsor_tam.F90
+file
+
+
+
+
+2014-01-14T03:14:09.000000Z
+8f0562a06318abb0ab8051a2d4f1d620
+2012-11-20T09:08:51.307895Z
+3611
+pabouttier
+has-props
+
+sol_oce_tam.F90
+file
+
+
+
+
+2014-01-14T03:14:09.000000Z
+bd700aaeaf34c015fcb7ca035e3b0b09
+2012-11-20T09:08:51.307895Z
+3611
+pabouttier
+has-props
+

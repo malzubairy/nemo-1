@@ -1,0 +1,44 @@
+8
+
+dir
+3819
+http://forge.ipsl.jussieu.fr/nemo/svn/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/EXTERNAL/XMLF90
+http://forge.ipsl.jussieu.fr/nemo/svn
+
+
+
+2012-11-27T13:24:21.015299Z
+3676
+vichi
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4aad9cc9-4d31-0410-b1e8-ee312aa4b1ec
+
+LICENSE
+file
+
+
+
+
+2014-01-14T03:14:38.000000Z
+0fcd99e758fdd7ce0463330377e50b31
+2010-10-15T14:21:13.057608Z
+2281
+smasson
+has-props
+
+src
+dir
+

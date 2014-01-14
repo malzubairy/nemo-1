@@ -1,0 +1,78 @@
+8
+
+dir
+3819
+http://forge.ipsl.jussieu.fr/nemo/svn/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/CONFIG
+http://forge.ipsl.jussieu.fr/nemo/svn
+
+
+
+2013-02-11T11:26:15.455722Z
+3797
+cbricaud
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4aad9cc9-4d31-0410-b1e8-ee312aa4b1ec
+
+GYRE_LOBSTER
+dir
+
+AMM12_PISCES
+dir
+
+GYRE
+dir
+
+ORCA2_OFF_PISCES
+dir
+
+ORCA2_LIM
+dir
+
+ORCA2_TAM
+dir
+
+makenemo
+file
+
+
+
+
+2014-01-14T03:13:58.000000Z
+0bc5e2332957d535b3b3caba389ddd4e
+2012-12-06T16:05:00.640950Z
+3722
+rblod
+has-props
+
+AMM12
+dir
+
+ORCA2_LIM_PISCES
+dir
+
+cfg.txt
+file
+
+
+
+
+2014-01-14T03:13:58.000000Z
+1216534c18c0dcc4ca6c6f043545f87b
+2012-12-06T16:05:00.640950Z
+3722
+rblod
+has-props
+
